@@ -1,0 +1,11 @@
+#ignore zips
+*.zip
+
+#ignore videos
+*.mp4
+*.avi
+
+#ignore 
+*.jpg
+*.jpeg
+*.png

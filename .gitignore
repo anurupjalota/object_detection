@@ -9,3 +9,6 @@
 *.jpg
 *.jpeg
 *.png
+
+#ipynb
+*.ipynb_checkpoints*

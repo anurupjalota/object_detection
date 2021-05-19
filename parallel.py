@@ -1,8 +1,4 @@
-import os
-import numpy as np
-import cv2
-import multiprocessing
-min_confidence = 0.2
+
 
 CLASSES = ["background", "aeroplane", "bicycle", "bird", "boat",
     "bottle", "bus", "car", "cat", "chair", "cow", "diningtable",
